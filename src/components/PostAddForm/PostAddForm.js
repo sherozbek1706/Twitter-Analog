@@ -24,7 +24,7 @@ export default class PostAddForm extends React.Component {
       <div className="bootom-panel d-flex justify-content-between">
         <input
           type="text"
-          placeholder="Nima haqida o'ylayapsiz?"
+          placeholder="Nima haqida o'ylayapsiz? Sherozbek"
           value={inputText}
           name="inputText"
           className="form-control new-post-label w-75"
@@ -36,7 +36,7 @@ export default class PostAddForm extends React.Component {
           onClick={this.clickAddPost}
           className="btn btn-outline-secondary"
         >
-          Post Qo'shish
+          Post Qo'sh Sherozbek
         </button>
       </div>
     );
