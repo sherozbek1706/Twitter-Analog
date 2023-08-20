@@ -11,7 +11,7 @@ export default class App extends React.Component {
     super(props);
     this.state = {
       data: [
-        { label: "React JS ni O'rganmoqchiman.", important: false, like: false, id: 1},
+        { label: "React JS ni O'rganmoqchimisan", important: false, like: false, id: 1},
         { label: "Bu juda yaxshi!", important: false, like: false, id: 2 },
         { label: "Menga dam kerak...", important: false, like: false, id: 3 },
       ],
