@@ -36,7 +36,7 @@ export default class PostAddForm extends React.Component {
           onClick={this.clickAddPost}
           className="btn btn-outline-secondary"
         >
-          Post Qo'shish
+          Post Qo'sh Sherozbek
         </button>
       </div>
     );
